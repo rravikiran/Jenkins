@@ -25,7 +25,7 @@ public class FirstJenkins {
 		driver.get("https://www.google.com");
 		String getTitle = driver.getTitle();
 		System.out.println("The title of the page is"+getTitle);
-		System.out.println("Your script is passs");
+		System.out.println("Your script is pass");
 	}
 	
 	@AfterClass
