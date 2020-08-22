@@ -16,7 +16,7 @@ public class FirstJenkins {
 	public void testSetUp() {
 		
 		System.setProperty("webdriver.chrome.driver",
-				"C://Users//Ravi//Desktop//JenkinsSoftware//chromedriver_win32//chromedriver.exe");
+				"Drivers//chromedriver.exe");
 		driver = new ChromeDriver();
 	}
 	
