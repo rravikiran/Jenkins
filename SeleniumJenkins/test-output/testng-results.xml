@@ -2,24 +2,24 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="7303" started-at="2020-08-22T14:51:58Z" finished-at="2020-08-22T14:52:05Z">
+  <suite name="Default suite" duration-ms="17165" started-at="2020-08-22T16:25:22Z" finished-at="2020-08-22T16:25:40Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="7303" started-at="2020-08-22T14:51:58Z" finished-at="2020-08-22T14:52:05Z">
+    <test name="Default test" duration-ms="17165" started-at="2020-08-22T16:25:22Z" finished-at="2020-08-22T16:25:40Z">
       <class name="org.ravikiran.selenium.SeleniumJenkins.FirstJenkins">
-        <test-method status="PASS" signature="testSetUp()[pri:0, instance:org.ravikiran.selenium.SeleniumJenkins.FirstJenkins@4f638935]" name="testSetUp" is-config="true" duration-ms="4528" started-at="2020-08-22T20:21:58Z" finished-at="2020-08-22T20:22:02Z">
+        <test-method status="PASS" signature="testSetUp()[pri:0, instance:org.ravikiran.selenium.SeleniumJenkins.FirstJenkins@28feb3fa]" name="testSetUp" is-config="true" duration-ms="13281" started-at="2020-08-22T21:55:22Z" finished-at="2020-08-22T21:55:36Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testSetUp -->
-        <test-method status="PASS" signature="verifyGooglePageTittle()[pri:0, instance:org.ravikiran.selenium.SeleniumJenkins.FirstJenkins@4f638935]" name="verifyGooglePageTittle" duration-ms="1914" started-at="2020-08-22T20:22:02Z" finished-at="2020-08-22T20:22:04Z">
+        <test-method status="PASS" signature="verifyGooglePageTittle()[pri:0, instance:org.ravikiran.selenium.SeleniumJenkins.FirstJenkins@28feb3fa]" name="verifyGooglePageTittle" duration-ms="2620" started-at="2020-08-22T21:55:36Z" finished-at="2020-08-22T21:55:38Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyGooglePageTittle -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:org.ravikiran.selenium.SeleniumJenkins.FirstJenkins@4f638935]" name="tearDown" is-config="true" duration-ms="833" started-at="2020-08-22T20:22:04Z" finished-at="2020-08-22T20:22:05Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:org.ravikiran.selenium.SeleniumJenkins.FirstJenkins@28feb3fa]" name="tearDown" is-config="true" duration-ms="1232" started-at="2020-08-22T21:55:38Z" finished-at="2020-08-22T21:55:40Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- org.ravikiran.selenium.SeleniumJenkins.FirstJenkins -->
-    </test> <!-- Test -->
-  </suite> <!-- Suite -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
 </testng-results>

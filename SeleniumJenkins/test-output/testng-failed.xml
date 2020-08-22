@@ -7,7 +7,6 @@
         <methods>
           <include name="verifyGooglePageTittle"/>
           <include name="testSetUp"/>
-          <include name="tearDown"/>
         </methods>
       </class> <!-- org.ravikiran.selenium.SeleniumJenkins.FirstJenkins -->
     </classes>
